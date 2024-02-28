@@ -1,5 +1,9 @@
 hello git!!
 hello git!!
+<<<<<<< HEAD
 789
+=======
+123456
+>>>>>>> hot-fix
 hit-fox add
 hit-fox add2
